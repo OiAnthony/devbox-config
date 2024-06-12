@@ -57,6 +57,14 @@
           "store_path": "/nix/store/7hnr99nxrd2aw6lghybqdmkckq60j6l9-python3-3.11.9"
         }
       }
+    },
+    "ripgrep": {
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#ripgrep",
+      "source": "nixpkg"
+    },
+    "zsh": {
+      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#zsh",
+      "source": "nixpkg"
     }
   }
 }
